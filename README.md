@@ -99,7 +99,10 @@ Before installing Playwright, ensure you have the following:
   ```bash
   npx playwright test
 
-
+- For an interactive test experience with the UI:
+  ```bash
+  npx playwright test --ui
+  ```
 
 ### Setup/Prerequisites - Playwright Testing Service
 
